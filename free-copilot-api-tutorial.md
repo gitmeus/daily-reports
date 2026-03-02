@@ -102,9 +102,15 @@ curl http://<服务器IP>:8317/v1/chat/completions \
 - 免费额度不稳定，不保证长期可用。
 - 视频中提到的项目（CURL/ProxyAPI）及注册脚本需自行从作者渠道获取（如 Telegram 频道）。
 
+## 参考视频
+
+- **主教程视频** (默认新窗口观看)：
+  <a href="https://www.youtube.com/watch?v=sLjTilvm2RQ" target="_blank">https://www.youtube.com/watch?v=sLjTilvm2RQ</a>
+- **补充视频** (默认新窗口观看)：
+  <a href="https://www.youtube.com/watch?v=JVcUJoWbsLs" target="_blank">https://www.youtube.com/watch?v=JVcUJoWbsLs</a>
+
 ## 资源链接
 
-- 视频源：https://www.youtube.com/watch?v=sLjTilvm2RQ
 - 字幕文件：[youtube-subtitle-20260301-104643.srt](./youtube-subtitle-20260301-104643.srt)
 - 代理 API 项目：需从视频描述或作者频道获取
 - 注册脚本：需从视频描述或 Telegram 频道获取
