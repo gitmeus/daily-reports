@@ -105,8 +105,12 @@ curl http://<服务器IP>:8317/v1/chat/completions \
 ## 视频演示
 
 <center>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sLjTilvm2RQ/0.jpg)](https://www.youtube.com/watch?v=sLjTilvm2RQ&t=634s){: target="_blank"}
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JVcUJoWbsLs/0.jpg)](https://www.youtube.com/watch?v=JVcUJoWbsLs){: target="_blank"}
+<a href="https://www.youtube.com/watch?v=sLjTilvm2RQ&t=634s" target="_blank">
+  <img src="https://img.youtube.com/vi/sLjTilvm2RQ/0.jpg" alt="教程视频 1" />
+</a>
+<a href="https://www.youtube.com/watch?v=JVcUJoWbsLs" target="_blank">
+  <img src="https://img.youtube.com/vi/JVcUJoWbsLs/0.jpg" alt="教程视频 2" />
+</a>
 </center>
 
 ## 资源链接
